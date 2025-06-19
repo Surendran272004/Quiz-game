@@ -1,1 +1,1 @@
-# Tic-Tac-Game
+# Quiz-Game
